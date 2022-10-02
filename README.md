@@ -13,9 +13,9 @@
 
 ![Necmiye Soylu's github stats](https://github-readme-stats.vercel.app/api?username=NecmiyeSoylu&hide=contribs,prs,issues,stars&include_all_commits=true&count_private=true&show_icons=true&icon_color=#E3E4FA&text_color=daf7dc&bg_color=151515)
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=c_examples)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=cpp_examples)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=java_examples)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=programmingLanguage_II)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=c_examples)](https://github.com/NecmiyeSoylu/c_examples)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=cpp_examples)](https://github.com/NecmiyeSoylu/cpp_examples)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=java_examples)](https://github.com/NecmiyeSoylu/java_examples)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=NecmiyeSoylu&repo=programmingLanguage_II)](https://github.com/NecmiyeSoylu/ProgrammingLanguage_II)
 
 ![y ](https://media-exp2.licdn.com/dms/image/C4D0BAQGAxZB9nanFMg/company-logo_200_200/0/1604772619897?e=2147483647&v=beta&t=SBvpybEkQXhX3NmBmIB_weyyorYhk-XK_qnUYKa0LEg)
