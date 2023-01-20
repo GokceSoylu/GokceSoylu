@@ -13,4 +13,8 @@
 
 ![Necmiye Soylu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NecmiyeSoylu&show_icons=true&hide=contributed,prs,issues)
 
+
+![Snake animation](https://github.com/NecmiyeSoylu/NecmiyeSoylu/blob/output/github-contribution-grid-snake.svg)
+
+
 ![y ](https://media-exp2.licdn.com/dms/image/C4D0BAQGAxZB9nanFMg/company-logo_200_200/0/1604772619897?e=2147483647&v=beta&t=SBvpybEkQXhX3NmBmIB_weyyorYhk-XK_qnUYKa0LEg)
