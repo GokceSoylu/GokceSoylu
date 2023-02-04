@@ -8,7 +8,7 @@
 
 
 
-🔗[medium](https://medium.com/@necmiyesoylu) 🔗[twitter](https://twitter.com/necmiye_soylu) 🔗[instagram](https://www.instagram.com)
+🔗[Linkedin](https://www.linkedin.com/in/necmiyesoylu/)🔗[medium](https://medium.com/@necmiyesoylu) 🔗[twitter](https://twitter.com/necmiye_soylu) 🔗[instagram](https://www.instagram.com) 
 
 ![](https://komarev.com/ghpvc/?username=NecmiyeSoylu)
 
