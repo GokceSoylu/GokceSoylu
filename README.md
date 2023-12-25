@@ -1,7 +1,5 @@
 # Hi  🤗
 
-### 💻 Junior programmer at [SimurgAI](https://www.simurgai.com)
-
 ### 👩🏻‍💻 Computer engineering student at Karabuk Universty
 
 ### 📚 You can reach my notes on Medium and GitHub
@@ -17,7 +15,7 @@
 
 ![Necmiye Soylu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NecmiyeSoylu&show_icons=true&hide=contributed,prs,issues)
     
-![Snake animation](https://github.com/NecmiyeSoylu/NecmiyeSoylu/blob/output/github-contribution-grid-snake.svg)[![150](https://user-images.githubusercontent.com/92854954/213646736-a1d56ef6-7016-4e81-9f47-2df66212281d.jpeg)](https://www.simurgai.com)
+
 
 
 
