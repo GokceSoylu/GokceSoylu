@@ -1,18 +1,18 @@
 # Hi  😁
 
-### 👩🏻‍💻 Computer engineering student at Karabuk Universty
+### 👩🏻‍💻 Computer engineering student at Adnan Menderes Universty
 
 ### 📚 You can reach my notes on Medium and GitHub
 
 
 
-🔗[linkedin](https://www.linkedin.com/in/necmiyesoylu/)
+🔗[linkedin](https://www.linkedin.com/in/gokcesoylu/)
 
-🔗[medium](https://medium.com/@necmiyesoylu) 
+🔗[medium](https://medium.com/@gokceesoylu) 
 
-🔗[twitter](https://twitter.com/necmiye_soylu) 
+🔗[twitter](https://twitter.com/gokcee_soylu) 
 
-🔗[instagram](https://www.instagram.com) 
+🔗[instagram](https://www.instagram.com/gokcee_soylu/)
 
 
 
