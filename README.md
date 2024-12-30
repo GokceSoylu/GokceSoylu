@@ -12,7 +12,6 @@
 
 🔗[twitter](https://twitter.com/gokcee_soylu) 
 
-🔗[instagram](https://www.instagram.com/gokcee_soylu/)
 
 
 
