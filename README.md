@@ -8,7 +8,7 @@
 
 🔗[linkedin](https://www.linkedin.com/in/gokcesoylu/)
 
-🔗([medium](https://medium.com/@gokceesoylu)) 
+🔗[medium](https://medium.com/gokceesoylu)
 
 🔗[twitter](https://twitter.com/gokcee_soylu) 
 
