@@ -1,4 +1,4 @@
-# Hi  😁
+# Hi  
 
 ### 👩🏻‍💻 Computer engineering student at Adnan Menderes Universty
 
@@ -8,7 +8,7 @@
 
 🔗[linkedin](https://www.linkedin.com/in/gokcesoylu/)
 
-🔗[medium](https://medium.com/@gokcesoylu))
+🔗[medium](https://medium.com/@gokcesoylu)
 
 🔗[twitter](https://twitter.com/gokcee_soylu) 
 
