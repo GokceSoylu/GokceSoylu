@@ -4,7 +4,7 @@
 
 Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği mezunuyum. Clean Architecture prensiplerine uygun backend sistemleri, RESTful API'ler ve veritabanı altyapıları geliştiriyorum.
 
-🌐 **Portfolyo Sitemi İnceleyin:** [gokcesoylu.dev](https://gokcesoylu.vercel.app) *(veya kendi özel alan adın)*
+🌐 **Portfolyo Sitemi İnceleyin:** [gokcesoylu.dev](https://gokcesoylu.vercel.app) 
 
 ---
 
